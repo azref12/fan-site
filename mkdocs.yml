@@ -1,0 +1,34 @@
+site_name: My Docs
+site_name : Fani's Site
+site_url : https://azmi-refani.com
+
+theme : 
+  name : material
+  features : 
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - navigation.instant
+    - navigation.instant.prefetch
+
+  palette: 
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/weather-night 
+      name: Switch to dark mode
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+
+  font:
+    text: PT Serif
+
+nav :
+  - HOME : "index.md"
+  - ABOUT ME : "about-me.md"
+  - OCCUPATION : "occupation.md"
+  - PORTFOLIOS : "portfolios.md"
