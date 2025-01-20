@@ -28,7 +28,7 @@ theme :
     text: PT Serif
 
 nav :
-  - HOME : "index.md"
+  - HOME : "home.md"
   - OCCUPATION : "occupation.md"
   - PORTFOLIOS :
     - Non IT : "Portfolios/design.md"
