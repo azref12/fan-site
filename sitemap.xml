@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://azmi-refani.com/</loc>
-         <lastmod>2024-12-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://azmi-refani.com/about-me/</loc>
-         <lastmod>2024-12-26</lastmod>
+         <lastmod>2025-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azmi-refani.com/occupation/</loc>
-         <lastmod>2024-12-26</lastmod>
+         <lastmod>2025-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://azmi-refani.com/portfolios/</loc>
-         <lastmod>2024-12-26</lastmod>
+         <loc>https://azmi-refani.com/Portfolios/IT/</loc>
+         <lastmod>2025-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://azmi-refani.com/Portfolios/design/</loc>
+         <lastmod>2025-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
