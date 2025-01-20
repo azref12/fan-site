@@ -1,18 +1,9 @@
-## Portfolios & Projects
+### Portfolios & Projects IT
 
-### Portfolios
-#### IT
+#### Github / Gitllab
 - Github : [@azref12](https://github.com/azref12)
 - Gitlab : [azmi_refani](https://gitlab.com/azmi_refani)
 
-#### Non-IT
-- Education : [Fan's Learning](https://azref12.github.io/fan-s-learning/)
-- Promotional Videos : [@lee_ahjin](https://www.instagram.com/lee_ahjin/)
-- Sketchs Commission : [@fansketchs__ ](https://www.instagram.com/fansketchs__/)
-- Social Media Design : [@if16.iti](https://www.instagram.com/if16.iti/)
-- Youtube Channel : [Ahjin Lee](https://www.youtube.com/@fansketchs/)
-
-### Projects (IT)
 #### Associated with Fresh Graduate Academy - Digital Talent Scholarship (FGA- DTS) KOMINFO 
 - Vaccination Application (Aug 2021 - Sep 2021) : Group Projects carried out during the Fresh Graduate Academy - Digital Talent Scholarship (FGA- DTS) KOMINFO training.
 

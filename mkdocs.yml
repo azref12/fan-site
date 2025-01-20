@@ -29,6 +29,7 @@ theme :
 
 nav :
   - HOME : "index.md"
-  - ABOUT ME : "about-me.md"
   - OCCUPATION : "occupation.md"
-  - PORTFOLIOS : "portfolios.md"
+  - PORTFOLIOS :
+    - Non IT : "Portfolios/design.md"
+    - IT : "Portfolios/IT.md"
