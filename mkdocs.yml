@@ -1,0 +1,66 @@
+site_name: My Docs
+site_name : Fun's Site
+site_url : https://azmi-refani.com
+
+theme : 
+  name : material
+  font :
+    text : Merriweather Sans
+    code : Red Hat Mono
+  icon :
+    - logo : material/cat
+  features : 
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.section
+    - navigation.expand
+    - navigation.footer
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.share
+
+  custom_dir: docs/overrides
+
+  extra : 
+    social:
+      - icon : fontawesome/brands/linkedin
+        link : https://www.linkedin.com/in/azmi-refani-223482207/ 
+
+  extra_css:
+    - css/custom.css      
+
+  plugins : 
+    - search
+    - tags
+
+  palette: 
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/weather-night 
+      name: Switch to dark mode
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+
+  font:
+    text: PT Serif
+
+nav : 
+  - Home : "index.md"
+  - About Me : "about/aboutme.md"
+  - Occupation : 
+    - Work Experiences : "occupation/work.md"
+  - Portfolios : 
+    - IT : "portfolio/IT.md"
+    - NON-IT : "portfolio/NON-IT.md"
