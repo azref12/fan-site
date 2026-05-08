@@ -1,0 +1,16 @@
+.md-footer {
+    display: block;
+}
+
+.md-footer-meta {
+    background-color: #111;
+    color: #fff;
+}
+
+.md-footer-meta__inner::after {
+    content: "© 2025 Create by 파니";
+    display: block;
+    text-align: center;
+    padding: 8px 0;
+    font-size: 0.85rem;
+}
