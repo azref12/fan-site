@@ -1,7 +1,7 @@
 # Work Experiences
 
 ### Data Analyst
-- PT Digi Herba Nusantara | 28 July 2025 – Present,
+- PT Digi Herba Nusantara | 28 July 2025 – Present, 
 - Job Desc : 
     1. Designed, maintained, and enhanced data systems and databases to support business operations.
     2. Developed and delivered interactive sales dashboards for performance monitoring.
