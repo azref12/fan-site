@@ -1,18 +1,21 @@
 # Work Experiences
 
-### Freelancer (Remote)
-- Fansketchs (*my own brand*)
-- May 2023 - Present 
-  Job Desc :
-    1. Create a design for the feed on social media especially Instagram.
-    2. Create a logo for the commercial marketplace.
-    3. Create a custom design such as the invitation wedding, greeting card, etc. 
-    4. Create slow-motion videos for brand promotions or gifts.
-    5. Open Commission for digital art.
+### Data Analyst
+- PT Digi Herba Nusantara | 
+  July 2025 – Present
+  Job Desc : 
+    1. Designed, maintained, and enhanced data systems and databases to support business operations.
+    2. Developed and delivered interactive sales dashboards for performance monitoring.
+    3. Collected, processed, and analyzed both primary and secondary data from multiple business units.
+    4. Conducted data analysis to generate actionable business insights and support strategic decisionmaking.
+    5. Built customized dashboards based on cross-functional team requirements.
+    6. Presented analytical findings through clear data visualization and interpretation.
+    7. Developed and improved an effective Data Management System tailored to organizational needs.
+    8. Collaborated with various departments to understand and fulfill data requirements.
 
 ### Back-end Development (Full-time)
 - PT Novitra Indonesia Pratama (Indosoft)
-- 1 March 2022 - 28 August 2024, 
+- 1 March 2022 - 28 August 2024 
     Job Desc :
     1. Create an API for a projects using Django framework
     2. Create a documentation of the projects
@@ -22,7 +25,7 @@
 
 ### IT Support Technician (Internship)
 - Pusat Teknologi Penerbangan - Lembaga Penerbangan dan Antariksa Nasional (PUSTEKBANG-LAPAN, Rumpin)
-- 1 August - 31 August 2019, 
+- 1 August - 31 August 2019 
     Job Desc :
     1. Create a WiFi network using Mikrotik hardware.
     2. Make a LAN cable (Cross and Straight)
