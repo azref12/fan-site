@@ -23,7 +23,7 @@
 
 ### IT Support Technician (Internship)
 - Pusat Teknologi Penerbangan - Lembaga Penerbangan dan Antariksa Nasional (PUSTEKBANG-LAPAN, Rumpin)
-- 1 August - 31 August 2019,  
+- 1 August - 31 August 2019,   
 - Job Desc :
     1. Create a WiFi network using Mikrotik hardware.
     2. Make a LAN cable (Cross and Straight)
