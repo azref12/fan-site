@@ -39,6 +39,7 @@ theme :
   plugins : 
     - search
     - tags
+    - glightbox 
 
   palette: 
   # Palette toggle for light mode
